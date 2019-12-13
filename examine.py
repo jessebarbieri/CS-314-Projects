@@ -1,3 +1,8 @@
+# Jesse Barbieri
+# Version 0 Project 2 
+# Professor Francisco 
+# CS-314
+
 import os 
 import os.path 
 import string 
@@ -62,12 +67,6 @@ for i in sub_dir:
         
         plt.savefig(cur_file + ".png")
       
-
-        
-        
-
-            
-
 
 
             
