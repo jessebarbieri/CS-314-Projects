@@ -3,5 +3,5 @@ Projects Completed in CS-314 at Rutgers University
 
 Grades Recieved: 
 Project 0 (Scheme): 88/100 
-Project 1 (Prolog): Grade Pending 
-Project 2 (Python): Pending completion 
+Project 1 (Prolog): 97/100 
+Project 2 (Python): 100/100
